@@ -1,0 +1,71 @@
+
+body{
+    background-image:url(backg.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 1000px;
+}
+.form{
+    text-align: center;
+    margin: 120px 300px;
+}
+h1{
+    text-align: center;
+    padding:30px;
+    background-color: green;
+    font-size: 30px;
+    font-style: bold;
+}
+#registration{
+    background-color: #B0E0E6;
+    width:400px;
+    margin:0px 0px 0px 450px;
+    color:Black;
+    font-size:18px;
+}
+label{
+    color:black;
+    font-family:'Times New Roman';
+    font-size: 20px;
+    font-style: bold ;
+}
+#button{
+    width:220px;
+    padding: 7px;
+    border-radius:10px;
+    outline: 0px;
+}
+#password{
+    width:220px;
+    padding: 7px;
+    border-radius:10px;
+    outline: 0px;
+}
+#ph{
+    width:60px;
+    padding: 7px;
+    border-radius:10px;
+    outline: 0px;
+}
+#phone{
+    width:150px;
+    padding: 7px;
+    border-radius:10px;
+    outline: 0px;
+}
+#dateofbirth{
+    width:220px;
+    padding: 7px;
+    border-radius:10px;
+    outline: 0px;
+}
+
+#regibutton{
+    width:100px;
+    padding: 7px;
+    border-radius:10px;
+    outline: 0px;
+    background-color: green;
+    border: 2px solid #008000;
+    color:white;
+    font-size:20px;
+}
